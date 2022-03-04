@@ -7,3 +7,8 @@
 	path = tacc-openneuro
 	url = https://github.com/poldracklab/tacc-openneuro.git
 	datalad-url = https://github.com/poldracklab/tacc-openneuro.git
+[submodule "sourcedata/raw"]
+	path = sourcedata/raw
+	url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds000140
+	datalad-id = 555e3ea8-8a8a-11e8-afd8-0242ac12001d
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds000140
